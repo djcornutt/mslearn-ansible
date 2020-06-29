@@ -1,0 +1,8 @@
+[
+    {
+      "host": "vm666.southcentralus.cloudapp.azure.com",
+      "port": 22,
+      "user": "azureuser",
+      "key": "/home/drew/.ssh/ansible_rsa"
+    }
+  ]
